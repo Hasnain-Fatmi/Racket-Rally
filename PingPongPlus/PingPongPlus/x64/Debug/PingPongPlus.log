@@ -1,0 +1,180 @@
+﻿  main.cpp
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\raygui.h(1514,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\raygui.h(3220,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\raygui.h(3221,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\raygui.h(3859,106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\raygui.h(3859,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(29,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(30,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(31,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(32,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(121,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(122,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(128,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(129,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(138,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(139,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(145,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(146,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(221,1): warning C4305: '*=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(230,1): warning C4305: '*=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(240,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(241,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(244,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(245,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(255,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(256,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(259,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(260,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(269,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(270,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(276,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\Manual.h(277,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(25,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(26,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(27,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(28,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(86,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(87,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(94,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(95,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(103,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(104,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(111,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(112,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(153,1): warning C4305: '*=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(163,1): warning C4305: '*=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(174,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(175,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(179,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(180,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(190,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(191,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(195,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(196,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(204,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(205,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(212,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\AI.h(213,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\main.cpp(16,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\main.cpp(16,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\main.cpp(28,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\main.cpp(31,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\SEMESTER_PROJECT\PingPongPlus\PingPongPlus\main.cpp(31,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PingPongPlus.vcxproj -> F:\SEMESTER_PROJECT\PingPongPlus\x64\Debug\PingPongPlus.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
